@@ -1,0 +1,20 @@
+{
+  "name": "miniprojectsreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelRojass/MiniProjectsReact.git"
+  },
+  "keywords": [],
+  "author": "Miguel Rojas <mrojastrujillo14@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelRojass/MiniProjectsReact/issues"
+  },
+  "homepage": "https://github.com/MiguelRojass/MiniProjectsReact#readme"
+}
